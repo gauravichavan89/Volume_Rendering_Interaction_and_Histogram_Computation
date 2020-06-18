@@ -1,4 +1,4 @@
-# Volume Rendering, Interaction and Histogram Computation
+# Volume Rendering, Interaction and Histogram Computation using Visualization Toolkit
 
 
 The aim of this short assignment is to display a Computed Tomography (CT) image using volume rendering as well as iso-surface representation using visualization toolkit. A CT dataset was provided to us which would be provided on request.
